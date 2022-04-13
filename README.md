@@ -1,4 +1,4 @@
-# Architecting with Google Compute Engine (60%)
+# Architecting with Google Compute Engine (80%)
 
 * I learned about Google Cloud Fundamentals: Core Infrastructure
 * I learned about Essential Google Cloud Infrastructure: Foundation
